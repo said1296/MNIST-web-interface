@@ -6,9 +6,9 @@ It can:
   1. Predict a drawn digit.
   2. Store multiple drawings of a digit and use them to enhance the server's neural network.
   
-The website's DOM is updated without refreshing the page.
+The website's DOM is updated without refreshing the page, the UI is responsive since the page was arranged with Bootstrap 4.
 
-The server runs with flask and all the neural network code with the tensorflow and keras libraries.
+The server runs with flask and all the neural network code with the Tensorflow and Keras libraries for Python.
 
 The base model was trained using the MNIST dataset.
 
