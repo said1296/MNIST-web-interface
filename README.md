@@ -1,10 +1,14 @@
 # MNIST-web-interface
 
-This project consists of a gorgeously ugly user interface for using a neural network model stored in a server.
+A gorgeously ugly user interface for training and predicting with a model stored in a server
+
+![](mnist-web.gif)
 
 It can:
   1. Predict a drawn digit.
-  2. Store multiple drawings of a digit and use them to enhance the server's neural network.
+  2. Store multiple drawings of a digit and use them to enhance the server's neural network's model.
+  
+ 
   
 The website's DOM is updated without refreshing the page, the UI is responsive since the page was arranged with Bootstrap 4.
 
